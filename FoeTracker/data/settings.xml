@@ -1,0 +1,24 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <draggable>true</draggable>
+        <pos>
+            <x>300</x>
+            <y>120</y>
+        </pos>
+        <quest_order>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15</quest_order>
+        <text>
+            <blue>0</blue>
+            <font>MV Boli</font>
+            <green>0</green>
+            <red>0</red>
+            <stroke>
+                <alpha>50</alpha>
+                <blue>255</blue>
+                <green>255</green>
+                <red>255</red>
+                <width>1</width>
+            </stroke>
+        </text>
+    </global>
+</settings>
