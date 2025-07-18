@@ -23,3 +23,6 @@ Commands:
 //foet stop   - Pause the tracking and hiding the GUI.
 
 //foet help   - Shows commandlist.
+
+
+Custom order for quests can be set in FoeTracker\data\Settings.xml
